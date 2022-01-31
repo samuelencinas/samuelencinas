@@ -12,7 +12,7 @@
 
 
 
-### ¡Bienvenido a mi perfil de GitHub!  
+### Sobre mí
 *Soy ingeniero informático de Servicios y Aplicaciones de formación, pero vocacionalmente soy un desarrollador con mucha curiosidad y pasión por la tecnología. Dicha pasión por la informática comenzó en mí a muy temprana edad, lo que hizo que comenzara a aprender de forma **autodidacta**. A día de hoy, no he dejado de hacerlo, ya que creo fervientemente que dicha curiosidad y pasión son el caldo de cultivo perfecto para no dejar de crecer (aunque no sea a la misma velocidad de vértigo que crece la tecnología 😋*
 
 *Estoy especializándome en el desarrollo web desde un enfoque **full stack**, especialmente con aquellos stacks tecnológicos que tengan que ver con Node, como MEVN y MEAN, stacks con los que he tenido la oportunidad de trastear y exprimir hasta la última gota. También me encuentro especializándome en técnicas de **DevOps**, utilizando tecnologías como Jenkins, Docker y Kubernetes. Por otra parte, despiertan mi curiosidad temas como el auge de la Inteligencia Artificial, el desarrollo de apps móviles o el desarrollo basado en Blockchain. Considero que estos tres temas son la base del futuro de la informática. 🤖*
