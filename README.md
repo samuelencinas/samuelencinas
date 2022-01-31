@@ -1,6 +1,6 @@
 ## ¡Hola 👋, soy Samu Encinas!  
   
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 <a href="https://github.com/samuelencinas" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
