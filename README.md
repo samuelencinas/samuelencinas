@@ -1,6 +1,6 @@
 ## ¡Hola 👋, soy Samu Encinas!  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&center=true&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)
 
 <a href="https://github.com/samuelencinas" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -12,7 +12,7 @@
 
 
 
-### Sobre mí
+### ¡Bienvenido a mi perfil de GitHub!  
 *Soy ingeniero informático de Servicios y Aplicaciones de formación, pero vocacionalmente soy un desarrollador con mucha curiosidad y pasión por la tecnología. Dicha pasión por la informática comenzó en mí a muy temprana edad, lo que hizo que comenzara a aprender de forma **autodidacta**. A día de hoy, no he dejado de hacerlo, ya que creo fervientemente que dicha curiosidad y pasión son el caldo de cultivo perfecto para no dejar de crecer (aunque no sea a la misma velocidad de vértigo que crece la tecnología 😋*
 
 *Estoy especializándome en el desarrollo web desde un enfoque **full stack**, especialmente con aquellos stacks tecnológicos que tengan que ver con Node, como MEVN y MEAN, stacks con los que he tenido la oportunidad de trastear y exprimir hasta la última gota. También me encuentro especializándome en técnicas de **DevOps**, utilizando tecnologías como Jenkins, Docker y Kubernetes. Por otra parte, despiertan mi curiosidad temas como el auge de la Inteligencia Artificial, el desarrollo de apps móviles o el desarrollo basado en Blockchain. Considero que estos tres temas son la base del futuro de la informática. 🤖*
@@ -24,9 +24,9 @@
 
 
 ## Conóceme rápidamente
-<table><tr><td valign="top" width="50%">
 
-- 🔭 Estoy actualmente trabajando  
+
+- 🔭 Estoy actualmente trabajando.
   
 
 - 🌱 Profundizando en el aprendizaje de Docker y Kubernetes  
@@ -37,12 +37,7 @@
 
 - ⚡Dato curioso: ¿Modo claro? ¿Qué es eso? ¿Se come?  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+-	🐝 Mi último proyecto personal es [Panal](https://panal.ideily.com), un juego de resolver paneles diario. Desarrollado durante 6 días junto a un amigo mediante Next.js
 
 <br/>  
 
